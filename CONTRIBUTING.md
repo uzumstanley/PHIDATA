@@ -63,7 +63,7 @@ These scripts will perform code formatting with `ruff`, static type checks with 
    - Import your Class in the `phi/model/<your_model>/__init__.py` file.
    - Checkout the [`phi/model/xai/xai.py`](https://github.com/phidatahq/phidata/blob/main/phi/llm/together/together.py) file for an example.
 4. If the Model provider does not support the OpenAI API spec:
-   - Reach out to us on [Discord](https://discord.gg/4MtYHHrgA8) or open an issue to discuss the best way to integrate your LLM provider.
+   - Reach out to us on stanleyuzum@gmail.com or open an issue to discuss the best way to integrate your LLM provider.
    - Checkout [`phi/model/anthropic/claude.py`](https://github.com/phidatahq/phidata/blob/main/phi/model/anthropic/claude.py) or [`phi/model/cohere/chat.py`](https://github.com/phidatahq/phidata/blob/main/phi/model/cohere/chat.py) for inspiration.
 5. Add a recipe for using your Model provider under `cookbook/providers/<your_model>`.
    - Checkout [`phidata/cookbook/provider/claude`](https://github.com/phidatahq/phidata/tree/main/cookbook/providers/claude) for an example.
