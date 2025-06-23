@@ -5,7 +5,7 @@ description = "Build multi-modal Agents with memory, knowledge and tools."
 requires-python = ">=3.7"
 readme = "README.md"
 authors = [
-  {name = "Ashpreet Bedi", email = "ashpreet@phidata.com"}
+  {name = "Stanley Ekene Uzum", email = "stanleyuzum@gmail.com"}
 ]
 
 dependencies = [
