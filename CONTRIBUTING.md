@@ -85,13 +85,3 @@ These scripts will perform code formatting with `ruff`, static type checks with 
 6. Submit a pull request.
 
 Message us on [Discord](https://discord.gg/4MtYHHrgA8) or post on [Discourse](https://community.phidata.com/) if you have any questions or need help with credits.
-
-## 📚 Resources
-
-- <a href="https://docs.phidata.com/introduction" target="_blank" rel="noopener noreferrer">Documentation</a>
-- <a href="https://discord.gg/4MtYHHrgA8" target="_blank" rel="noopener noreferrer">Discord</a>
-- <a href="https://community.phidata.com/" target="_blank" rel="noopener noreferrer">Discourse</a>
-
-## 📝 License
-
-This project is licensed under the terms of the [MPL-2.0 license](/LICENSE)
