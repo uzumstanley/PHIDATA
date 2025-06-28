@@ -1,4 +1,4 @@
-# Agents 101
+# AGENTS 101
 
 > Note: Fork and clone this repository if needed
 
@@ -24,19 +24,19 @@ pip install -U openai duckduckgo-search duckdb yfinance lancedb tantivy pypdf sq
 ### 4. Run the Web Search Agent
 
 ```shell
-python cookbook/agents_101/01_web_search.py
+python cookbook/AGENTS_101/01_web_search.py
 ```
 
 ### 5. Run the Finance Agent
 
 ```shell
-python cookbook/agents_101/02_finance_agent.py
+python cookbook/AGENTS_101/02_finance_agent.py
 ```
 
 ### 6. Run the RAG Agent
 
 ```shell
-python cookbook/agents_101/03_rag_agent.py
+python cookbook/AGENTS_101/03_rag_agent.py
 ```
 
 ### 7. Test in Agent UI
@@ -50,5 +50,5 @@ phi auth
 Run the Agent UI
 
 ```shell
-python cookbook/agents_101/04_agent_ui.py
+python cookbook/AGENTS_101/04_agent_ui.py
 ```
