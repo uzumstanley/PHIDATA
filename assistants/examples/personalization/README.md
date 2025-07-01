@@ -73,9 +73,3 @@ streamlit run cookbook/examples/personalization/app.py
 - Add a blog post to the knowledge base: https://blog.samaltman.com/what-i-wish-someone-had-told-me
 - Ask questions like:
   - What does Sam Altman wish someone had told him?
-
-### 6. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 7. Star ⭐️ the project if you like it.
-
-### 8. Share with your friends: [https://git.new/personalization](https://git.new/personalization)
