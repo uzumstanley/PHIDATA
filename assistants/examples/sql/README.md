@@ -85,7 +85,3 @@ streamlit run cookbook/examples/sql/app.py
 ```
 
 - Open [localhost:8501](http://localhost:8501) to view your SQL Assistant.
-
-### 6. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 7. Share with your friends: https://git.new/sql-ai
