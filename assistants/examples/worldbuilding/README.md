@@ -48,6 +48,6 @@ python cookbook/examples/worldbuilding/world_explorer.py
 Tell me about this world
 ```
 
-7. Message me on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
+7. Message me on stanleyuzum@gmail.com if you have any questions
 
 8. Star ⭐️ the project if you like it.
