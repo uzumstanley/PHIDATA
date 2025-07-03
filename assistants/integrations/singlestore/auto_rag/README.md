@@ -1,1 +1,1 @@
-- This cookbook has been moved to the [SingleStore AI Apps](/cookbook/integrations/singlestore/ai_apps/README.md) folder.
+- This cookbook has been moved to the [SingleStore AI Apps](https://github.com/uzumstanley/PHIDATA/tree/main/assistants/integrations/singlestore/ai_apps) folder.
