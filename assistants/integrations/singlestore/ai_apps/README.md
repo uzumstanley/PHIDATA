@@ -107,9 +107,3 @@ Add URLs and ask questions.
   - Question: Help me choose a vector database
 - URL: https://www.singlestore.com/blog/hybrid-search-vector-full-text-search/
   - Question: Tell me about hybrid search in SingleStore?
-
-### 7. Message us on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 8. Star ⭐️ the project if you like it.
-
-### 9. Share this cookbook using: https://git.new/s2-phi
