@@ -1,9 +1,5 @@
 # LLM OS
 
-Lets build the LLM OS proposed by Andrej Karpathy [in this tweet](https://twitter.com/karpathy/status/1723140519554105733), [this tweet](https://twitter.com/karpathy/status/1707437820045062561) and [this video](https://youtu.be/zjkBMFhNj_g?t=2535).
-
-Also checkout my [video](https://x.com/ashpreetbedi/status/1790109321939829139) on building the LLM OS for more information.
-
 ## The LLM OS design:
 
 <img alt="LLM OS" src="https://github.com/phidatahq/phidata/assets/22579644/5cab9655-55a9-4027-80ac-badfeefa4c14" width="600" />
