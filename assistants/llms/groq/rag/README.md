@@ -80,6 +80,4 @@ streamlit run cookbook/llms/groq/rag/app.py
   - What did Meta release?
   - Tell me more about the Llama 3 models?
 
-### 7. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 8. Star ⭐️ the project if you like it.
+### 7. Star ⭐️ the project if you like it.
