@@ -29,6 +29,4 @@ streamlit run cookbook/llms/groq/news_articles/app.py
 
 - Open [localhost:8501](http://localhost:8501) to view your Groq Researcher.
 
-### 5. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 6. Star ⭐️ the project if you like it.
+### 5. Star ⭐️ the project if you like it.
