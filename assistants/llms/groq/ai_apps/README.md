@@ -97,6 +97,4 @@ Examples:
 - URL: https://www.singlestore.com/blog/choosing-a-vector-database-for-your-gen-ai-stack/
   - Question: Help me choose a vector database
 
-### 9. Message us on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 10. Star ⭐️ the project if you like it.
+### 9. Star ⭐️ the project if you like it.
