@@ -81,8 +81,5 @@ streamlit run cookbook/llms/groq/auto_rag/app.py
   - Summarize news from france
   - Summarize our conversation
 
-### 7. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
+### 7. Star ⭐️ the project if you like it.
 
-### 8. Star ⭐️ the project if you like it.
-
-### 9. Share with your friends: https://git.new/groq-autorag
