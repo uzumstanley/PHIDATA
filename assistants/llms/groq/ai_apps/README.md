@@ -26,7 +26,7 @@ pip install -r cookbook/llms/groq/ai_apps/requirements.txt
 export GROQ_API_KEY=***
 ```
 
-- The Research Assistant can parse Websites and PDFs, but if you want to us Tavily Search as well, export your TAVILY_API_KEY (get it from [here](https://app.tavily.com/))
+- The Research Assistant can parse Websites and PDFs, but if you want to use Tavily Search as well, export your TAVILY_API_KEY (get it from [here](https://app.tavily.com/))
 
 ```shell
 export TAVILY_API_KEY=xxx
