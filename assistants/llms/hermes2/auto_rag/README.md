@@ -46,6 +46,4 @@ streamlit run cookbook/llms/hermes2/auto_rag/app.py
 phi stop cookbook/llms/hermes2/auto_rag/resources.py -y
 ```
 
-### 7. Message me on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 8. Star ⭐️ the project if you like it.
+### 7. Star ⭐️ the project if you like it.
