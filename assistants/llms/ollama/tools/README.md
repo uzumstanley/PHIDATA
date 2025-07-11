@@ -40,8 +40,3 @@ streamlit run cookbook/llms/ollama/tools/app.py
   - What are analysts saying about TSLA?
   - Summarize fundamentals for TSLA?
 
-### 5. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 6. Star ⭐️ the project if you like it.
-
-### 7. Share with your friends: https://git.new/ollama-tools
