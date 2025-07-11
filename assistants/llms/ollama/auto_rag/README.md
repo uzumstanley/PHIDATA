@@ -63,9 +63,3 @@ streamlit run cookbook/llms/ollama/auto_rag/app.py
   - What did Meta release?
   - Summarize news from france
   - Summarize our conversation
-
-### 6. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 7. Star ⭐️ the project if you like it.
-
-### 8. Share with your friends: https://git.new/ollama-autorag
