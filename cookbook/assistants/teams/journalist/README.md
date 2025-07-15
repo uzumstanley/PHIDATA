@@ -1,6 +1,5 @@
 # Journalist Workflow
 
-Inspired by the fantastic work by [Matt Shumer (@mattshumer_)](https://twitter.com/mattshumer_/status/1772286375817011259).
 We created an open-ended Journalist Workflow that uses 3 GPT-4 Assistants to write an article.
 - Searcher: Finds the most relevant articles on the topic
 - Writer: Writes a draft of the article
