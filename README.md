@@ -25,7 +25,7 @@ Build multi-modal Agents with memory, knowledge, tools and reasoning.
 - **Build teams of agents that can work together to solve problems.**
 - **Chat with your agents using a beautiful Agent UI.**
 
-## Install
+## Install the framework 
 
 ```shell
 pip install -U phidata
