@@ -1,3 +1,7 @@
+
+<img width="1280" height="720" alt="super-agents" src="https://github.com/user-attachments/assets/b251d6b8-22c5-4a61-8723-a1783936d2ff" />
+
+
 # Ollama Cookbook
 
 > Note: Fork and clone this repository if needed
