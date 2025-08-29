@@ -51,4 +51,3 @@ Sambanova does not support all OpenAI features. The following features are not y
 - stream_options: include_usage
 - response_format
 
-Please refer to https://community.sambanova.ai/t/open-ai-compatibility/195 for more information.
